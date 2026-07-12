@@ -134,7 +134,11 @@ OpenAI API
 
 ### Achievement
 
-🏅 Winner – 1st Place College-Level Project Competition
+- 🥇 Winner – 1st Place College-Level Project Competition for developing an AI-powered Career Intelligence Platform.
+- 🚀 Developed and maintained 55+ production REST APIs used in logistics and operational workflows.
+- 🤖 Built and deployed AI-powered applications integrating OpenAI APIs for content generation and career guidance.
+- 🏢 Contributed to enterprise logistics and financial management platforms serving real-world business operations.
+- 🚀 Built and deployed 4 full-stack production projects. 
 
 ---
 
@@ -188,16 +192,6 @@ OpenAI API
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=maaz81&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=maaz81&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maaz81&layout=compact&theme=tokyonight)
 
 ---
 
